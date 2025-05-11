@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hello, I'm John Rix Domaoal
 
-<!--
-**Queryxx/Queryxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 Full-Stack Developer | JavaScript | PHP | React | Express
 
-Here are some ideas to get you started:
+### 🚀 Projects
+- 🖼️ [PhotoBooth App](https://github.com/Queryxx/ICTSO_PhotoBooth)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Reach Me
+- 🌐 [Portfolio Website](https://johnrixdomaoal.dev)
+- 💬 [LinkedIn](https://linkedin.com/in/johnrix)
+- 📷 [Instagram](https://instagram.com/rxxception_e)
+
+### ⚡ Fun Fact
+I love building tools that make life easier — and I’ve probably built one today!
