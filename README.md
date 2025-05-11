@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="[https://holopin.io/api/user/Queryxx/badges](https://scontent.fcrk2-4.fna.fbcdn.net/v/t39.30808-6/472374781_1812842226186051_1822361147001493540_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeHDW0GxO0eABu1PKwEYjHXzTBRNYDFxB7pMFE1gMXEHugasUd8mPJQi9DfJwCdxSRz1P1Ei3WqWKNq0Vno4Bq9V&_nc_ohc=JJCXb2_dd0MQ7kNvwGDwFh9&_nc_oc=AdkWQPAMIBcu-SAZbtwspnfHuu78M8e64TcBxqJRCmMBHjEgN7uU5YTEsWsX2t_FWLs&_nc_zt=23&_nc_ht=scontent.fcrk2-4.fna&_nc_gid=0KeSEZ0ya116e0DtVN2N9w&oh=00_AfIgfg2CywIig9CifHCAZWiSWz3QnqoxuDeXfqFj-ZI_Lw&oe=68261EBC)" alt="Holopin Badges" />
+  <img src="https://www.facebook.com/photo/?fbid=1167136447423302&set=pcb.1167138334089780" alt="johnrixdomaoal" />
 </p>
 
 # 👋 About Me
