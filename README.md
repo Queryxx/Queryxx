@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="aboutyou.jpg" alt="johnrixdomaoal" />
+  <img src="aboutyou.png" alt="johnrixdomaoal" />
 </p>
 
 # 👋 About Me
