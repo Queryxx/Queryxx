@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://www.facebook.com/photo/?fbid=1167136447423302&set=pcb.1167138334089780" alt="johnrixdomaoal" />
+  <img src="about you.jpg" alt="johnrixdomaoal" />
 </p>
 
 # 👋 About Me
