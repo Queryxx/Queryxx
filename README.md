@@ -9,7 +9,7 @@
 - 🎓 I'm currently a BSIT student at University of Abra.
 - 🤖 I'm learning ML,APP development and building cool projects around it.
 
-Hi! I'm John Rix Domaoal, a passionate developer focused on building accessible and fun tech. I love empowering others, by sharing knowledge, tools, and personal experiences.
+Hi! I'm John Rix Domaoal, a passionate developer focused on building accessible and fun tech.
 
 In my free time, I enjoy exploring new tech, improving my skills, and experimenting with creative coding projects.
 
