@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Wave Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=John%20Rix%20Domaoal&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Developer%20%7C%20ML%20Enthusiast%20%7C%20BSIT%20Student&descAlignY=55&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=John%20Rix%20Domaoal&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Web%20%26%20App%20Developer%20%7C%20ML%20Enthusiast%20%7C%20BSIT%20Student&descAlignY=55&descSize=18" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E57F7&center=true&vCenter=true&random=false&width=600&lines=Hi+there!+I'm+John+Rix+%F0%9F%91%8B;Passionate+Developer+%F0%9F%9A%80;ML+%26+App+Development+Learner+%F0%9F%A4%96;Building+Cool+Projects+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E57F7&center=true&vCenter=true&random=false&width=600&lines=Hi+there!+I'm+John+Rix+%F0%9F%91%8B;Full-Stack+Web+%26+App+Developer+%F0%9F%9A%80;ML,+Web+%26+App+Dev+Learner+%F0%9F%A4%96;Building+Innovative+Projects+%F0%9F%94%A5" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -26,7 +26,7 @@
 Hi! I'm **John Rix Domaoal**, a passionate developer focused on building **accessible and fun tech**. 🚀
 
 - 🎓 I'm currently a **BSIT student** at **University of Abra**
-- 🤖 I'm learning **Machine Learning**, **App Development** and building cool projects around it
+- 🤖 I'm learning **Machine Learning**, **Web Development**, and **App Development** and building cool projects around it
 - 💡 In my free time, I enjoy **exploring new tech**, improving my skills, and experimenting with **creative coding projects**
 - 🌱 Always growing, always building!
 - 💬 Ask me about **web development**, **ML**, or anything tech-related
