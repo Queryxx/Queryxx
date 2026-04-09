@@ -11,9 +11,9 @@
 <br/>
 
 <!-- Profile Views & Followers Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=JohnRixDomaoal&color=6E57F7&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Queryxx&color=6E57F7&style=for-the-badge&label=PROFILE+VIEWS)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/JohnRixDomaoal?label=Followers&style=for-the-badge&color=6E57F7&logo=github)](https://github.com/JohnRixDomaoal)
+[![GitHub followers](https://img.shields.io/github/followers/Queryxx?label=Followers&style=for-the-badge&color=6E57F7&logo=github)](https://github.com/Queryxx)
 
 </div>
 
@@ -36,11 +36,36 @@ Hi! I'm **John Rix Domaoal**, a passionate developer focused on building **acces
 
 ---
 
-## 🏅 Badges & Achievements
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-[![An image of @johnrixdomaoal's Holopin badges](https://holopin.me/johnrixdomaoal)](https://holopin.io/@johnrixdomaoal)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Queryxx&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Queryxx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E57F7&icon_color=6E57F7&text_color=ffffff&rank_icon=github" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Queryxx&theme=tokyonight&hide_border=true&background=0D1117&stroke=6E57F7&ring=6E57F7&fire=ff6e6e&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=6E57F7&sideLabels=6E57F7&dates=ffffff" />
+
+<br/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Queryxx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E57F7&text_color=ffffff" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Queryxx's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Queryxx&bg_color=0d1117&color=6E57F7&line=6E57F7&point=ffffff&area=true&area_color=6E57F7&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -80,46 +105,6 @@ Hi! I'm **John Rix Domaoal**, a passionate developer focused on building **acces
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### ☁️ Platforms & Deployment
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=JohnRixDomaoal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E57F7&icon_color=6E57F7&text_color=ffffff&rank_icon=github" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=JohnRixDomaoal&theme=tokyonight&hide_border=true&background=0D1117&stroke=6E57F7&ring=6E57F7&fire=ff6e6e&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=6E57F7&sideLabels=6E57F7&dates=ffffff" />
-
-<br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnRixDomaoal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E57F7&text_color=ffffff" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=JohnRixDomaoal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![John Rix's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JohnRixDomaoal&bg_color=0d1117&color=6E57F7&line=6E57F7&point=ffffff&area=true&area_color=6E57F7&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 </div>
 
 ---
@@ -128,9 +113,15 @@ Hi! I'm **John Rix Domaoal**, a passionate developer focused on building **acces
 
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JohnRixDomaoal&repo=emergency-response-system&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E57F7&icon_color=6E57F7&text_color=ffffff)](https://github.com/JohnRixDomaoal)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Queryxx&repo=EventiFace-Smart-Attendance&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E57F7&icon_color=6E57F7&text_color=ffffff)](https://github.com/Queryxx/EventiFace-Smart-Attendance)
 &nbsp;
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JohnRixDomaoal&repo=eco-ride&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E57F7&icon_color=6E57F7&text_color=ffffff)](https://github.com/JohnRixDomaoal)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Queryxx&repo=crimson-booth&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E57F7&icon_color=6E57F7&text_color=ffffff)](https://github.com/Queryxx/crimson-booth)
+
+<br/>
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Queryxx&repo=laravel-cloud-safe-spaces&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E57F7&icon_color=6E57F7&text_color=ffffff)](https://github.com/Queryxx/laravel-cloud-safe-spaces)
+&nbsp;
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Queryxx&repo=ERS&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E57F7&icon_color=6E57F7&text_color=ffffff)](https://github.com/Queryxx/ERS)
 
 </div>
 
@@ -153,8 +144,8 @@ Hi! I'm **John Rix Domaoal**, a passionate developer focused on building **acces
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnrixdomaoal@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JohnRixDomaoal)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Queryxx)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/johnrix.domaoal)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/johnrixdomaoal)
 
 <br/>
