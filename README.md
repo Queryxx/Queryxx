@@ -36,14 +36,6 @@ Hi! I'm **John Rix Domaoal**, a passionate developer focused on building **acces
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Queryxx&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
-
-</div>
-
 ---
 
 ## 📊 GitHub Stats
@@ -108,22 +100,6 @@ Hi! I'm **John Rix Domaoal**, a passionate developer focused on building **acces
 </div>
 
 ---
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Queryxx&repo=EventiFace-Smart-Attendance&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E57F7&icon_color=6E57F7&text_color=ffffff)](https://github.com/Queryxx/EventiFace-Smart-Attendance)
-&nbsp;
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Queryxx&repo=crimson-booth&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E57F7&icon_color=6E57F7&text_color=ffffff)](https://github.com/Queryxx/crimson-booth)
-
-<br/>
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Queryxx&repo=laravel-cloud-safe-spaces&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E57F7&icon_color=6E57F7&text_color=ffffff)](https://github.com/Queryxx/laravel-cloud-safe-spaces)
-&nbsp;
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Queryxx&repo=ERS&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E57F7&icon_color=6E57F7&text_color=ffffff)](https://github.com/Queryxx/ERS)
-
-</div>
 
 ---
 
